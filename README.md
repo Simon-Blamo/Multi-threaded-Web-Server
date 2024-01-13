@@ -16,4 +16,8 @@ This project involves the development of a multi-threaded web server capable of 
    - http://localhost:8888/index.html for regular HTTP service.
 
    - http://localhost:5555/ to trigger the automatic redirection to Google.
+  
+
+
+Developed Fall '23
 
